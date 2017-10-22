@@ -5,10 +5,10 @@ Please note that this code was never intended to be shared.  The examples here a
 
 ## Included Samples
 
-loadeod.py - This was an example of code used to load data from a remote server into MySQL for later processing
-normalize.py - Much of the data in this system required normalization before processing.  This program performed that funciton.
-idxdpnn.py - This was a neural network back propagation utility from another coder leveraged for this work. 
-idxnn.py - This program organized and prepped the training of the neural network.
-idxutils.py - This is a series of utilies used by this project.
-quotes.py - This is a program that was used to get quotes from a web service for this project.
-smooth.py - Some of the time series for this project required smoothing.  This utility performed that function.
+* loadeod.py - This was an example of code used to load data from a remote server into MySQL for later processing
+* normalize.py - Much of the data in this system required normalization before processing.  This program performed that funciton.
+* idxdpnn.py - This was a neural network back propagation utility from another coder leveraged for this work. 
+* idxnn.py - This program organized and prepped the training of the neural network.
+* idxutils.py - This is a series of utilies used by this project.
+* quotes.py - This is a program that was used to get quotes from a web service for this project.
+* smooth.py - Some of the time series for this project required smoothing.  This utility performed that function.
